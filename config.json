@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfelete",
+        "uuid": 8143149,
+        "checksum": "jfni6t"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
